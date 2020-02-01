@@ -1,0 +1,14 @@
+keypad_driver.c:88:6:key_init	40	static
+keypad_driver.c:138:6:key_clear	4	static
+keypad_driver.c:145:6:key_wait	8	static
+keypad_driver.c:153:5:key_get	4	static
+keypad_driver.c:160:5:key_get_wait	8	static
+keypad_driver.c:168:6:key_get_char	16	static
+keypad_driver.c:175:6:key_get_char_wait	16	static
+keypad_driver.c:183:6:key_to_char	16	static
+keypad_driver.c:194:6:key_set_char_lut	16	static
+keypad_driver.c:201:13:key_interrupt_handler	32	static
+keypad_driver.c:243:6:EXTI0_IRQHandler	8	static
+keypad_driver.c:250:6:EXTI1_IRQHandler	8	static
+keypad_driver.c:257:6:EXTI2_IRQHandler	8	static
+keypad_driver.c:264:6:EXTI3_IRQHandler	8	static
